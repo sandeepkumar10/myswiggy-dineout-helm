@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dineout:
+  - apiVersion: v2
+    appVersion: dineout.v1
+    created: "2026-10-04T16:20:39.328608186Z"
+    description: A Helm chart for Kubernetes
+    digest: ef2d5d9b9638c27562644353b0e759a41586f8bcaa67f99c8f1fbbc873c1e1a8
+    name: dineout
+    type: application
+    urls:
+    - dineout-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-04T16:20:39.326887628Z"
