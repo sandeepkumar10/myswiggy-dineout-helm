@@ -3,18 +3,29 @@ entries:
   dineout:
   - apiVersion: v2
     appVersion: dineout.v1
-    created: "2026-10-04T17:05:18.797676594Z"
+    created: "2026-10-04T17:33:20.477086494Z"
     description: A Helm chart for Kubernetes
-    digest: ef2d5d9b9638c27562644353b0e759a41586f8bcaa67f99c8f1fbbc873c1e1a8
+    digest: 0190a6e8172059247f542ed60ef211538248774fba1471bc9c1bd426956ae645
     name: dineout
     type: application
     urls:
     - dineout-0.1.0.tgz
     version: 0.1.0
+  food:
+  - apiVersion: v2
+    appVersion: food.v1
+    created: "2026-10-04T17:33:20.47780466Z"
+    description: A Helm chart for Kubernetes
+    digest: cd17462a4261672ae842976ed727fcb0a8a032b053efe3e7cc0ea7d9daca5b89
+    name: food
+    type: application
+    urls:
+    - food-0.1.0.tgz
+    version: 0.1.0
   instamart:
   - apiVersion: v2
     appVersion: instamart.v1
-    created: "2026-10-04T17:05:18.798407276Z"
+    created: "2026-10-04T17:33:20.478507989Z"
     description: A Helm chart for Kubernetes
     digest: 728e50a132327e45542924a6204f8b8cd77ecc85679524d395ab74177cf7a1f3
     name: instamart
@@ -22,4 +33,4 @@ entries:
     urls:
     - instamart-0.1.0.tgz
     version: 0.1.0
-generated: "2026-10-04T17:05:18.796804699Z"
+generated: "2026-10-04T17:33:20.476212396Z"
